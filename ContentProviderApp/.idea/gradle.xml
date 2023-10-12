@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="GradleMigrationSettings" migrationVersion="1" />
   <component name="GradleSettings">
     <option name="linkedExternalProjectsSettings">
       <GradleProjectSettings>
@@ -11,6 +12,14 @@
           <set>
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/core" />
+            <option value="$PROJECT_DIR$/core/redux" />
+            <option value="$PROJECT_DIR$/feature" />
+            <option value="$PROJECT_DIR$/feature/note" />
+            <option value="$PROJECT_DIR$/feature/note/data" />
+            <option value="$PROJECT_DIR$/feature/note/domain" />
+            <option value="$PROJECT_DIR$/feature/note/presentation" />
+            <option value="$PROJECT_DIR$/feature/note/utils" />
           </set>
         </option>
       </GradleProjectSettings>
